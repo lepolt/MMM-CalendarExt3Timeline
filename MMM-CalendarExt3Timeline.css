@@ -82,8 +82,11 @@
 
 
 .CX3T .hourIndex {
-  color: transparent;
-  min-width: 0;
+  /* color: transparent;
+  min-width: 0; */
+  color: #CCC;
+  padding-left: 3px;
+  font-weight: bold;
 }
 
 .CX3T .hourIndex:nth-of-type(1),
